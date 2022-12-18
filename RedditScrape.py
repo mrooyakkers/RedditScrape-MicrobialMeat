@@ -1,5 +1,5 @@
 import praw
-reddit = praw.Reddit(client_id='qjfEIJwbMxyRyNwVvFjmKw', client_secret='ZWvH-CW76JvPKNeplP2tOvIGyfk3Yg', user_agent='MollyBot')
+reddit = praw.Reddit(client_id='x', client_secret='x', user_agent='x')
 
 # wheresthebeef
 submission = reddit.submission(url="https://www.reddit.com/r/wheresthebeef/comments/xjmt3x/what_types_of_meat_do_you_want_designed/")
